@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "nifty-depth-407105",
+    "private_key_id": "b5748dc7728248a14998bcaa73a503da243cd8f7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC44E9QVaNUefH8\n8C9jKDvZAdQ+C/3E4xrrzgygOzQFJu9DFozlq323dWMYneNXU1D63HrQdMlietpM\nTGLYK45pQo73dFwv5Hfua79rINBVgTj+j/pS7gpSjROgqWOasq/8X0EyAm6HatNZ\ng6cPiijisj70cwyA5P7cI9PuoSK6HfOZq8e64b8NpVYpLJiIGXfkLTJx2vCiMI3T\n8MQna2aUONnVwAyYwmoB+fJFcbkKad83qwnEUbNoStVOaKvQH8wd7bEdZVzQ0pWF\nugbZv3pZiuM5flj7WwuRFF2H5IBCY9QH8l0pMcoev10Auwx8ijw5LGQBSR3p9oez\naxklYG+TAgMBAAECggEALKCZBL9naeD19STVi44OxFeYsFGctIZN3VYj3hnseMHp\nR7yNznMTKdIAVdTnKBFInwXR77gBVPBq+bgGtD/vZKFYeYtxJW51NOx1jJqjL8C9\nzVVcC+DCRSMg9ctt683uhXFI/5VusOmskxMgpLOpIu/8Gm4bOpIMo39SjWwAQgTH\nvfXHipj9d9RgxM/vx0vrG8/js2+DjWAu4j/bIyJeH6fLJcSjBPt3HXcHgOGdQNGN\nLvu5Zf8Gii+i+YKQfkpka4qFkQrymYRchHocJWG1PfA0KajeRCCH2jAMswq3w0Nn\nu3kyFDHhqyIGuBB1Z6XbHKa+jKX4+Ssq6T7+yXtqQQKBgQDkRElPEGbK9i9bxXfI\n9ddpNlyB25HuEr1xIansCRlgLbzZFVdGQ1sMFKRAlhE0K1Cf5Il3esduR7P1AalL\nFekW0KBJTlLyG2TGGzYEXWMI0Kt6iLiYiuxUKrXy4gZphfZXvMKVQBmW8o/Sdg+u\ntleQggOYfhjA2cZ/Dq4LfdEJKwKBgQDPVnXdkjLYX+0ynnfTyoMBaf8LBfQ7gbtH\novTgOc430eb0CiNflXHJXF+lhIJFyW8b+XfIgGw6O71vdcKlhQZxHKTV2pXSIwfU\nlK0JjKSCHF1mlsy+Wg5WIldQgy7CbYmYA/h6V/l9E2ZWA2aZ56yjhOZ2JVMYqNB+\nYJ0TuzOvOQKBgQCsIYJWiLu7GWIlBgeKFzjVMhUYJ4cnzCHnCcelIkdsa5EY8irZ\n5TjnJzmlKoTWnkMyD5hJ7OAunQtrGlGbOW6HsdLs9I8/2sBnU2WsbO+dWh21TRxG\ni5wi7AJAoYjMUiStjL3+5lNlrIwf3L9+tCnb4u7rM0tfQdmZPmyoZbwX+QKBgCpJ\n8TpjElnNnvyfE8Ov326PZwShj0H/4Onok9eUErqR5nBKDRL20UGHxL5mu4duYWos\nRMExaGGsQ6QTOcM20ayKchhoP/yfRn6WYIC9HeSn0mkVQudkSN5KnNKAHy5q1xCZ\nZrnVbb6UEWBjyy6C8VRczAC29i7mZ7gPDpqyqQUJAoGBALwecesEOh1n3ChYqFuK\nPAsg5ZzgzTtS7d60+ODxRTnNTv5tw0M5Q7FdNoyMFxLO8REk8QzUNoNbKjNO5FEC\noaxLQhWxuFIFxtn527vSQ6wMHYqdeT/RIlSpobVyPHQUqgssdNn0s1n5UjmtNbW8\nPmWxai+goB40TKWWYIZ1rMFS\n-----END PRIVATE KEY-----\n",
+    "client_email": "googlecloudstorageintegrationw@nifty-depth-407105.iam.gserviceaccount.com",
+    "client_id": "104976712793418718222",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlecloudstorageintegrationw%40nifty-depth-407105.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
